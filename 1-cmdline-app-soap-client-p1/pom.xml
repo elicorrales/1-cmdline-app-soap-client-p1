@@ -51,20 +51,6 @@
                             <directory>src/main/java/com/eli/calc/shape/service</directory>
                             <followSymlinks>false</followSymlinks>
                         </fileset>
-                        <!--
-						<fileset>
-							<directory>src/main/java/com/eli/calc/shape/domain</directory>
-							<followSymlinks>false</followSymlinks>
-						</fileset>
-						<fileset>
-							<directory>src/main/java/com/eli/calc/shape/model</directory>
-							<followSymlinks>false</followSymlinks>
-						</fileset>
-						<fileset>
-							<directory>src/main/java/com/eli/calc/shape/service</directory>
-							<followSymlinks>false</followSymlinks>
-						</fileset>
-						-->
 					</filesets>
 				</configuration>
 			</plugin>
